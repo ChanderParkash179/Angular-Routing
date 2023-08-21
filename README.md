@@ -1,27 +1,30 @@
-# AngularRouting
+# Angular Routing Masterclass
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Welcome to the Angular Routing Masterclass repository! In this comprehensive guide, we'll explore the exciting world of routing within Angular applications. 🚀
 
-## Development server
+## Topics Covered
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### 🌐 Simple Routing
+Learn how to navigate between different components using basic routing techniques. Understand how to set up routes, create route components, and configure navigation paths.
 
-## Code scaffolding
+### 🛡️ Auth Guard
+Dive into the world of authentication guards. Discover how to protect routes and ensure that only authorized users can access certain parts of your application.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 🔑 Auth Service
+Explore the power of authentication services. Create a robust authentication service to handle user login, logout, and user status management.
 
-## Build
+### 🚦 RouterLink and RouterLinkActive
+Unleash the potential of RouterLink and RouterLinkActive directives to create dynamic navigation links that respond to route changes and stay visually active.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### ⚙️ Admin Base Routing
+Learn how to implement hierarchical routing structures like an admin dashboard. Organize your routes and components to create a clear separation between user and admin sections.
 
-## Running unit tests
+### 📡 Services and Dependency Injection
+Discover the magic of services and dependency injection. Build efficient services to manage data, share information between components, and keep your application organized.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### ⚡ Lazy Loading
+Experience the magic of lazy loading. Optimize your application's performance by loading modules and components only when they're needed, enhancing user experience and reducing initial load times.
 
-## Running end-to-end tests
+Join me on this journey of Angular Routing! Happy coding! 🚀
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### preparedBy: Chander Parkash (chanderparkash179@gmail.com)
