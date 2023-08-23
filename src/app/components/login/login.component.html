@@ -15,13 +15,15 @@
               <!-- Email input -->
               <div class="form-outline mb-4">
                 <label class="form-label" for="form2Example1"><strong>Email</strong></label>
-                <input type="email" id="form2Example1" [placeholder]="enterEmail" class="form-control" />
+                <input type="email" id="form2Example1" [placeholder]="enterEmail" class="form-control"
+                  formControlName="email" />
               </div>
 
               <!-- Password input -->
               <div class="form-outline mb-4">
                 <label class="form-label" for="form2Example2"><strong>Password</strong></label>
-                <input type="password" id="form2Example2" [placeholder]="enterPassword" class="form-control" />
+                <input type="password" id="form2Example2" [placeholder]="enterPassword" class="form-control"
+                  formControlName="password" />
               </div>
 
               <!-- 2 column grid layout for inline styling -->
@@ -33,7 +35,7 @@
               </div>
 
               <!-- Submit button -->
-              <button type="button" class="btn btn-primary btn-block mb-4">Sign in</button>
+              <button type="submit" class="btn btn-primary btn-block mb-4">Sign in</button>
 
             </form>
 
